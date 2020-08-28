@@ -7,12 +7,7 @@ I'm a **computer science Student 👨🏽‍💼 [@CU](https://www.ec-nantes.fr)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43116024/91599470-04943c80-e984-11ea-906d-ad345e49fbc4.gif" width="600" height="420" />
 
-
-
-<!--
-**theyounglord/theyounglord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
