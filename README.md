@@ -3,7 +3,7 @@
 </p>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Deepam/The Younglord]
-I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)** from India. Currently, I'm a Freelancer 👨🏽‍💻 [@Freelancer](https://www.freelancer.com/) and Member of a community called as 👨🏽‍💼[@DSC](https://dsccu.in/). I also work as a **Full stack Web Developer / illustrator / Data science enthusiast**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I love to paly **Basketball :basketball: and to travel:airplane:**.
+I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)** from India. Currently, I'm a **Freelancer** 👨🏽‍💻 [@Freelancer](https://www.freelancer.com/) and Member of a community called as 👨🏽‍💼[@DSC](https://dsccu.in/). I also work as a **Full stack Web Developer / illustrator / Data science enthusiast**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I love to paly **Basketball :basketball: and to travel:airplane:**.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43116024/91599470-04943c80-e984-11ea-906d-ad345e49fbc4.gif" width="550" height="360" />
 
@@ -16,4 +16,4 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - 👯 I’m looking to collaborate with some system based Developer's right now.
 - 💬 Ask me about anything, I love to collaborate and help people.
 - 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
-- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/younglord_d9/)).
+- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
