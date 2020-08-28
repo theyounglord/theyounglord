@@ -15,5 +15,5 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - 🔭 I’m currently working on One Multi stack system based Project.
 - 👯 I’m looking to collaborate with some system based Developer's right now.
 - 💬 Ask me about anything, I love to collaborate and help people.
-- 📫 How to reach me: [@younglord_d9]([@geeky_abhiz](https://www.instagram.com/younglord_d9/);
-- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match.
+- 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
+- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/younglord_d9/)).
