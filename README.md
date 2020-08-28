@@ -19,6 +19,9 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
 
 **You Guy's can follow me on**
+
+### You Guy's can follow me on
+
 <br/>
 <a href="https://twitter.com/spida_rwin">
   <img align="left" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
@@ -41,3 +44,5 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
   <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
+
+I'm a **Graduate Stude
