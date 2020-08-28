@@ -9,6 +9,13 @@ I'm a **computer science Student 👨🏽‍💼 [@CU](https://www.ec-nantes.fr)
 
 **Talking about Personal Stuffs:**
 
+- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems,📊 Data Science,:telescope: space exploration,:classical_building:interior designing
+]
+- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
+- ⚡️ I am currently writing two articles along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **RTAS'2021** and **ICRA'2021** for our work on Real-Time constrained ROS using Xenomai.
+- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
