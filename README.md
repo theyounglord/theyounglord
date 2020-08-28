@@ -5,7 +5,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Deepam/The Younglord]
 I'm a **computer science Student 👨🏽‍💼 [@CU](https://www.ec-nantes.fr)** in India. I also work as a **Full stack Web Developer / illustrator / Data science enthusiast**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I love to paly **Basketball :basketball:**.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43116024/91599470-04943c80-e984-11ea-906d-ad345e49fbc4.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43116024/91599470-04943c80-e984-11ea-906d-ad345e49fbc4.gif" width="600" height="420" />
 
 
 
