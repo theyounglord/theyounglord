@@ -17,3 +17,27 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - 💬 Ask me about anything, I love to collaborate and help people.
 - 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
+
+**You Guy's can follow me on**
+<br/>
+<a href="https://twitter.com/spida_rwin">
+  <img align="left" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/erwin.lejeune">
+  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/spid_erwin">
+  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img align="left" alt="guilyx's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+<a href="https://www.codewars.com/users/Guilyx">
+  <img align="left" alt="guilyx's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+</a>
+<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
+  <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+</a> <br /> <br />
