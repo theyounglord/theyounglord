@@ -20,26 +20,26 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 
 ### You Guy's can follow me on :point_down:
 <br/>
-<a href="https://twitter.com/spida_rwin">
-  <img align="center" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+<a href="https://https://twitter.com/younglord_d9">
+  <img align="center" alt="younglord | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img align="center" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://www.linkedin.com/in/young-lord-526b3116b/">
+  <img align="center" alt="younglord LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img align="center" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+<a href="https://https://www.facebook.com/younglord.d9/">
+  <img align="center" alt="younglord's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/spid_erwin">
-  <img align="center" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+<a href="https://www.instagram.com/younglord_d9">
+  <img align="center" alt="youunglord's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img align="center" alt="guilyx's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+<a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
+  <img align="center" alt="younglord's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="https://www.codewars.com/users/Guilyx">
-  <img align="center" alt="guilyx's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+<a href="https://www.codewars.com">
+  <img align="center" alt="younglord's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
-<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
-  <img align="center" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+<a href="https://www.codingame.com">
+  <img align="center" alt="younglord's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
 
