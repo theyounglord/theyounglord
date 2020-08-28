@@ -1,4 +1,6 @@
-![mybanner](https://user-images.githubusercontent.com/43116024/91091911-ecb37480-e674-11ea-827c-1a47e6e9e77f.gif)
+<p align="center">
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/43116024/91091911-ecb37480-e674-11ea-827c-1a47e6e9e77f.gif" />
+</p>
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Deepam/The Younglord]
 I'm a **computer science Student 👨🏽‍💼 [@CU](https://www.ec-nantes.fr)** in India. I also work as a **Full stack Web Developer / illustrator / Data science enthusiast**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I love to paly **Basketball :basketball:**.
 
