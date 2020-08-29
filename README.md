@@ -21,25 +21,25 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 ### You Guy's can also follow me on :point_down:
 <br/>
 <a href="https://https://twitter.com/younglord_d9">
-  <img align="center" alt="younglord | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/young-lord-526b3116b/">
-  <img align="center" alt="younglord LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://https://www.facebook.com/younglord.d9/">
-  <img align="center" alt="younglord's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/younglord_d9">
-  <img align="center" alt="youunglord's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
-  <img align="center" alt="younglord's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://www.codewars.com">
-  <img align="center" alt="younglord's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
 <a href="https://www.codingame.com">
-  <img align="center" alt="younglord's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
 
