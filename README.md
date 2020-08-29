@@ -19,27 +19,8 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
 
 ### You Guy's can also follow me on :point_down:
-<br/>
 <a href="https://https://twitter.com/younglord_d9">
   <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/young-lord-526b3116b/">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://https://www.facebook.com/younglord.d9/">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/younglord_d9">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
-<a href="https://www.codewars.com">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
-</a>
-<a href="https://www.codingame.com">
-  <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
-</a> <br /> <br />
 
 
