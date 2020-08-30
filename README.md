@@ -16,9 +16,11 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - 👯 I’m looking to collaborate with some system based Developer's right now.
 - 💬 Ask me about anything, I love to collaborate and help people.
 - 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
-- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
+- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women F1 Racing team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)).
 
 ### You Guy's can also follow me on :point_down:
+<p align="center">
+<br/>
 <a href="https://https://twitter.com/younglord_d9">
   <img align="center" alt="GIF" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
