@@ -21,11 +21,11 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 ### You Guy's can also follow me on :point_down:
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
+<a href="https://twitter.com/younglord_d9">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
 <a href="https://github.com/theyounglord">
-  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
+  <img alt="guilyx | Github" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
