@@ -24,9 +24,8 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
-<a<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/theyounglord" aria-label="Follow @theyounglord on GitHub">Follow @theyounglord
-  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />>
+<a href="https://github.com/theyounglord">
+  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
@@ -34,7 +33,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://www.facebook.com/erwin.lejeune">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/spid_erwin">
+<a href="https://www.instagram.com/accounts/login/?next=%2Fyounglord_d9%2F&source=follow">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
