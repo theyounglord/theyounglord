@@ -22,21 +22,18 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <p align="center">
 <br/>
 <a href="https://twitter.com/younglord_d9">
-  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
+  <img alt="Deepam | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
 <a href="https://github.com/theyounglord">
-  <img alt="guilyx | Github" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
+  <img alt="Deepam | Github" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+<a href="https://www.linkedin.com/in/young-lord-526b3116b/">
+  <img alt="Deepam's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.instagram.com/accounts/login/?next=%2Fyounglord_d9%2F&source=follow">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Deepam's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+<a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
+  <img alt="Deepam's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
