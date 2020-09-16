@@ -24,8 +24,8 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
-<a
-  <input href="https://github.com/theyounglord&quot" data-hydro-click-hmac="ece1cde7912263aad512c85f5d06aeb5e612bf1ec44c77147515e563f37ab695" data-disable-with="Follow">
+<a<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/theyounglord" aria-label="Follow @theyounglord on GitHub">Follow @theyounglord
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />>
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
