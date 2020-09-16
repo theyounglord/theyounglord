@@ -24,9 +24,9 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
-<a>
-  <input type="submit" name="commit" value="Follow" class="btn btn-block " title="Follow theyounglord" aria-label="Follow this person" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:43116024,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:71401393,&quot;originating_url&quot;:&quot;https://github.com/theyounglord&quot;}}" data-hydro-click-hmac="ece1cde7912263aad512c85f5d06aeb5e612bf1ec44c77147515e563f37ab695" data-disable-with="Follow">
-  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
+<a
+  <input href="https://github.com/theyounglord&quot" data-hydro-click-hmac="ece1cde7912263aad512c85f5d06aeb5e612bf1ec44c77147515e563f37ab695" data-disable-with="Follow">
+  <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />>
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
