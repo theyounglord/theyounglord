@@ -24,7 +24,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
 </a>
-<a href="https://twitter.com/spida_rwin">
+<a href="https://github.githubassets.com/assets/user-status-submit-9e2d59ad.js">
   <img alt="guilyx | Twitter" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322053.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
