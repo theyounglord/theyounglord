@@ -10,11 +10,10 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 **Talking about Personal Stuffs:**
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems,📊 Data Science,:artificial_satellite: space exploration,:classical_building:interior designing,:tropical_fish:graphics designing,:open_book:reading & :black_nib:writing];
+- 🤹🏽 Fields I enjoy the most include [🤖 Robotics,📊 Data Science,:artificial_satellite: space exploration,:tropical_fish:illustration,:open_book:reading & :black_nib:writing];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- 🔭 I’m currently working on One Multi stack system based Project.
-- 👯 I’m looking to collaborate with some system based Developer's right now.
-- 💬 Ask me about anything, I love to collaborate and help people.
+- 👯 I’m looking to collaborate with new people and ideas.
+- 💬 Ask me about anything, I love to answer and help people.
 - 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women F1 Racing team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)) at one of the competition on ([@Devinetart](https://www.deviantart.com/)).
 
