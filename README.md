@@ -35,6 +35,8 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 <a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
   <img alt="Deepam's Spotify" width="75px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
+  <a href="https://github.comnz/theyounglord">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=3ca3e7&text_color=b8d7eb&icon_color=e77912&bg_color=0,000000,325fb3" alt="Martin's GitHub Stats" />
 </p>
 
 <a href="mailto:theyounglord.d9@gmail.com">
