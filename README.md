@@ -40,7 +40,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 </a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats &my handy tools
 <p align="center">
   <a href="https://github.com/theyounglord">
   <img align="center"  height="207px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyounglord&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -49,11 +49,6 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=b8d7eb&icon_color=e77912&bg_color=1d1f21" alt="Martin's GitHub Stats" />
   </a>
 </p>
-  
-**Languages and Tools:**  
-
-
-
 <p align="center">
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
