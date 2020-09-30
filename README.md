@@ -17,7 +17,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women F1 Racing team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)) at one of the competition on ([@Devinetart](https://www.deviantart.com/)).
 
-### :monocle_face: You Guy's can also follow me on :
+# :monocle_face: You Guy's can also follow me on :
 <p align="left">
 <br/>
 <a href="https://twitter.com/younglord_d9">
