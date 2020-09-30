@@ -41,7 +41,3 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
   <a href="https://github.comnz/theyounglord">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=b8d7eb&icon_color=e77912&bg_color=10,000000,325fb3" alt="Martin's GitHub Stats" />
 </p>
-
-<a href="mailto:theyounglord.d9@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/master/images/social-gmail.svg" height="40" />
-</a>
