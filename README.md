@@ -18,7 +18,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 - ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women F1 Racing team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)) at one of the competition on ([@Devinetart](https://www.deviantart.com/)).
 
 ## :monocle_face: You Guy's can also follow me on :
-<p align="left">
+<p align="center">
 <br/>
 <a href="https://twitter.com/younglord_d9">
   <img alt="Deepam | Twitter" width="75px" src="https://www.flaticon.com/svg/static/icons/svg/1322/1322042.svg" />
@@ -41,12 +41,14 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
 </p>
 
 ## &#x1f4c8; GitHub Stats
+<p align="center">
   <a href="https://github.com/theyounglord">
   <img align="center"  height="207px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyounglord&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.comnz/theyounglord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=b8d7eb&icon_color=e77912&bg_color=1d1f21" alt="Martin's GitHub Stats" />
   </a>
+</p>
   
 **Languages and Tools:**  
 
