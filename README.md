@@ -45,5 +45,5 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
   <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyounglord&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.comnz/theyounglord">
-  <img align="right" height="250px" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=b8d7eb&icon_color=e77912&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api?username=theyounglord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=b8d7eb&icon_color=e77912&bg_color=1d1f21" alt="Martin's GitHub Stats" />
   </a>
