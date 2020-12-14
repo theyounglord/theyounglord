@@ -33,7 +33,7 @@ I'm a **computer science Student 👨🏽‍💼 [@UGC](https://www.ugc.ac.in/)*
   <img alt="Deepam's Instagram" width="75px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/31htsemoewvncl77kqbji3vvth4q">
-  <img alt="Deepam's Spotify" width="75px" src="https://github.com/theyounglord/theyounglord/blob/master/images/033-spotify.png" />
+  <img src="https://github.com/theyounglord/theyounglord/blob/master/images/033-spotify.png" alt="Deepam's Spotify" width="75px" />
 </a>
   <a href="mailto:theyounglord.d9@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/master/images/social-gmail.svg" height="40" />
