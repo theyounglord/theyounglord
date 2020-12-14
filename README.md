@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="GIF" src="https://github.com/theyounglord/theyounglord/images/Banner.gif" width="1020" height="420" />
+<img align="center" alt="GIF" src="https://github.com/theyounglord/theyounglord/blob/master/images/91091911-ecb37480-e674-11ea-827c-1a47e6e9e77f.gif" width="1020" height="420" />
 </p>
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Deepam/The Younglord] ![](https://visitor-badge.glitch.me/badge?page_id=theyounglord)
